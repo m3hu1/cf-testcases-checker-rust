@@ -1,6 +1,6 @@
 # cf-testcases-checker-rust
 
-![](https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/.thumb/animation/gopher-dance-long-3x.gif)
+<img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="Rustacean" width="200" height="200">
 
 A simple command-line tool written in Rust to automatically fetch and run test cases for Codeforces problems against your Golang solutions.
 
